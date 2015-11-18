@@ -1,0 +1,3 @@
+Running a python code
+
+print "Bismillah"
